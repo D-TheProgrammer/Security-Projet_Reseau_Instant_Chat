@@ -6,6 +6,11 @@
   <img width="500" alt="image" src="https://github.com/D-TheProgrammer/Security-Projet_Reseau_Instant_Chat/assets/151149998/d7baeee2-22f9-4e0c-8cc2-37eb00f8579c">
 </div>
 
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+- Tuoriel dans les deux langues / Tutorial in both languages
+
 ## [PRESENTATION EN FRANCAIS]
 Le projet que j'ai réalisé consiste en la création d'un système de messagerie en ligne en temps réel, utilisant des sockets pour permettre aux utilisateurs de communiquer facilement en utilisant le modèle client/serveur. Mon programme permet à l'utilisateur de créer un pseudo sur une page, puis de discuter avec une autre personne en insérant son nom pour lui envoyer des
 messages. Le système prend en compte la possibilité pour les utilisateurs de quitter à tout moment, ce qui enverra un message à l'autre utilisateur pour le prévenir de leur départ. Si le pseudo du destinataire n'existe pas, aucun message ne sera envoyé.
