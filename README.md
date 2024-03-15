@@ -8,8 +8,9 @@
 
 #### SOMMAIRE / SUMMARY
 - [Présentation en francais / Presentation in French](#presentation-en-francais)
+- [Tutoriel en français /Tutorial in French](#tutoriel)
 - [Présentation en anglais / Presentation in English](#english-presentation)
-- [Tutoriel dans les deux langues / Tutorial in both languages](#tutoriel--tutorial)
+- [Tutoriel en anglais /Tutorial in English](#tutorial)
 
 ## [PRESENTATION EN FRANCAIS]
 Le projet que j'ai réalisé consiste en la création d'un système de messagerie en ligne en temps réel, utilisant des sockets pour permettre aux utilisateurs de communiquer facilement en utilisant le modèle client/serveur. Mon programme permet à l'utilisateur de créer un pseudo sur une page, puis de discuter avec une autre personne en insérant son nom pour lui envoyer des
